@@ -1,5 +1,5 @@
 <h1 aling="center">
-  Exercícios Javascript🖥️
+  Exercícios Javascript 🖥️
 </h1>
 
 ## 🖱️ About
